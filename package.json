@@ -1,0 +1,28 @@
+{
+  "name": "juegos_naves_backend",
+  "version": "1.0.0",
+  "description": "Backend del juego de naves para android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPDev-01/juegos_naves_backend.git"
+  },
+  "author": "Juan Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPDev-01/juegos_naves_backend/issues"
+  },
+  "homepage": "https://github.com/JPDev-01/juegos_naves_backend#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.0",
+    "sequelize": "^6.37.7"
+  }
+}
